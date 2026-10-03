@@ -1,0 +1,2 @@
+add_executable(cpp02_text_analyzer src/main.cpp)
+target_include_directories(cpp02_text_analyzer PRIVATE src)
