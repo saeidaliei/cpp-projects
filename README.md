@@ -4,7 +4,7 @@ A hands-on C++23 practice path containing 15 small projects. The projects are de
 
 ## What this repo is for
 
-The goal is not to memorize syntax. Each project gives you a small, believable problem where a particular part of modern C++ is useful.
+The goal is not to memorize syntax. Each project gives a small problem where a particular part of modern C++ is useful.
 
 Recommended workflow:
 
